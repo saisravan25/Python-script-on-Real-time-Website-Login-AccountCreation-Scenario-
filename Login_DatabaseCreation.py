@@ -1,5 +1,3 @@
-#Database - Secret question(creation,insertion)
-
 import mysql.connector
 from mysql.connector import Error
 
