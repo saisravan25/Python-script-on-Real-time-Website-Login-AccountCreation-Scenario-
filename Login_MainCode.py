@@ -1,5 +1,3 @@
-#Database - Secret question(Asking secret question)
-
 import mysql.connector
 from mysql.connector import Error
 import signup
